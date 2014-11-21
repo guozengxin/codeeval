@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # encoding=utf8
-# codeeval challenges 13
+# https://www.codeeval.com/open_challenges/13/
 
 import sys
 

@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# https://www.codeeval.com/open_challenges/3/
 
 from math import sqrt
 
